@@ -1,10 +1,10 @@
 # This-Is-Me
-- É isso mesmo bitvh
-## Some facts about me:
+- 20y
+- SPFC 🇾🇪
+- I just know a bit of nodejs
 
 ## What am I doing?
-
-## My Stats
+- Learning Java
 
 ## Contact me
 <div style="display:flex">
