@@ -4,7 +4,7 @@
 - I just know a bit of nodejs
 
 ## What am I doing?
-- Learning Java and Golang
+- Learning C
 
 ## Contact me
 <div style="display:flex">
