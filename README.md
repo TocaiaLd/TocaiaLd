@@ -1,15 +1,4 @@
-<div align="center">
-
-### Software Engineering Student
-
-<p>
-  
-</p>
-
-
-</div>
-
----
+# Software Engineering Student
 
 ## 🚀 About Me
 
