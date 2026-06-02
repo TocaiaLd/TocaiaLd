@@ -3,7 +3,7 @@
 ### Software Engineering Student
 
 <p>
-  Passionate about building scalable applications, learning software architecture, and creating solutions that make an impact.
+  
 </p>
 
 
