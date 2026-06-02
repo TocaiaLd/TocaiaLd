@@ -1,7 +1,5 @@
 <div align="center">
 
-# Wesley Silva Alves 👨‍💻
-
 ### Software Engineering Student
 
 <p>
