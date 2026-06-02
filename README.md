@@ -24,7 +24,7 @@ I'm a Software Engineering student with a strong interest in basic software deve
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+[![My Skills](https://skillicons.dev/icons?i=c,cmake,python,nodejs,react,mongodb,)](https://skillicons.dev) 
 
 ---
 
