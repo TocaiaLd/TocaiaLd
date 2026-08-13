@@ -9,28 +9,6 @@ I'm a Software Engineering student with a strong interest in basic software deve
 
 ---
 
-## 🛠️ Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=c,cmake,python,nodejs,react,mongodb,)](https://skillicons.dev) 
-
----
-
-## 📚 Currently Learning
-
-- Software Architecture
-- C Language
-- Assembly x86
-
----
-
-## 🎯 Career Goals
-
-- Become a Software Engineer
-- Contribute to the source code of a linux system
-- Create my own distro
-
----
-
 ## 📫 Contact
 
 - GitHub: https://github.com/TocaiaLd
