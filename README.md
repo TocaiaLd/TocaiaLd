@@ -11,7 +11,6 @@ I'm a Software Engineering student with a strong interest in basic software deve
 
 ## 📫 Contact
 
-- GitHub: https://github.com/TocaiaLd
-- Email: wesley.tocaiald@gmail.com
+- E-mail: wesley14@proton.me
 
 ---
