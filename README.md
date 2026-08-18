@@ -1,6 +1,6 @@
 # Software Engineering Student
 
-## 🚀 About Me
+## ❓ About Me
 
 I'm a Software Engineering student with a strong interest in basic software development, assembly and compilers.
 
